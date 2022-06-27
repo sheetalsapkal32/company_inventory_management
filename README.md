@@ -8,3 +8,9 @@ Inventory management processes is crucial at a time when supply chain that impac
   4. Show all items purchased 
   5. On the basis of generated data , I am displaying data in visualization tool using tableau software . tableau is connected with data source file and display different graphs which can be useful for prediction purpose.
   
+
+Steps to download and open python program :
+1. Download & install the Python IDLE's, here's the link "https://www.python.org/downloads/".
+2. Extract the zip file and Open the extracted folder
+3. Locate the py file and open via python IDLE.
+4. Run the python file 
